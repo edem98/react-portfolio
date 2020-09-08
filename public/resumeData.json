@@ -1,0 +1,139 @@
+{
+  "main": {
+    "name": "Serge Kossi",
+    "occupation": "Django / React Native Full Stack developer located in Lomé",
+    "description": "Specilized in ",
+    "image": "sg3.png",
+    "bio": "My name is Serge, I'm a Full Stack entry level ReactJS Developer. I'm looking for jobs and new opportunities",
+    "contactmessage": "Hit me up for further details.",
+    "email": "edems.kossi@gmail.com",
+    "phone": "+228 92 63 94 17",
+    "address": {
+      "street": "Résidence Minamadou",
+      "city": "Lomé",
+      "state": "Togo",
+      "zip": "55788"
+    },
+    "website": "https://www.linkedin.com/in/serge-kossi-258836156/",
+    "resumedownload": "https://www.linkedin.com/in/serge-kossi-258836156/",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/serge.kossi",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/serge-kossi-258836156/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/sergekossi/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/edem98",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Theses are skills I learned throughout my developer journey that make me the best choices for your projects.",
+    "education": [
+      {
+        "school": "Esiba Business School",
+        "degree": "Bachelor degree in  Computer Science",
+        "graduated": "January 2018",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Shankara France",
+        "title": "Webmaster",
+        "years": "December 2019 - August 2020",
+        "description": "Updating content and maintaining the website"
+      },
+      {
+        "company": "Epound Corporation",
+        "title": "Django Full Stack developer",
+        "years": "March 2017 - June 2019",
+        "description": "Building the company ERP and Api's for a mobile app."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "React Native",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Django",
+        "level": "95%"
+      },
+      {
+        "name": "Wordpress",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Tiktok Clone",
+        "category": "Tiktok Clone built with ReactJS",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://tiktok-clone-fd991.web.app/"
+      },
+      {
+        "title": "Facebook Clone",
+        "category": "Facebook clone built with javascript and firebase",
+        "image": "facebook-clone.png",
+        "url": "https://facebook-clone-2a4d1.firebaseapp.com/"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Netflix Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://netflix-clone-5966a.web.app/"
+      },
+      {
+        "title": "TamTam Digital website",
+        "category": "Digital school website built with wordpress",
+        "image": "tamtam.png",
+        "url": "http://157.245.92.105/"
+      },
+      {
+        "title": "Edfashionworld",
+        "category": "Ecommerce website built with wordpress",
+        "image": "edfashionworld.png",
+        "url": "https://www.edfashionworld.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Serge Kossi is a proactive developer who builds or maintains apps in the most efficient ways that avoid bugs and allowed me ro run my online business seamlessly, and when bugs shows off he always fix them in the shortest delay to minimize money loss. It's a pleasue to work whith him. ",
+        "user": "Camille abgrall - CEO Shankara France."
+      }
+    ]
+  }
+}
